@@ -1,10 +1,7 @@
-﻿using Shopping.Client.Models;
-using System;
+﻿using Shopping.API.Models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Shopping.Client.Data
+namespace Shopping.API.Data
 {
     public static class ProductContext
     {
