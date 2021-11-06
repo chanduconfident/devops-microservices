@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Client", "Shopping
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.API", "Shopping.API\Shopping.API.csproj", "{1CE8309F-1AD5-41D9-BC0E-361AC14FC774}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BBA99632-4F2D-41B9-A6E8-C51B2E72ED31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1CE8309F-1AD5-41D9-BC0E-361AC14FC774}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CE8309F-1AD5-41D9-BC0E-361AC14FC774}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CE8309F-1AD5-41D9-BC0E-361AC14FC774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA99632-4F2D-41B9-A6E8-C51B2E72ED31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA99632-4F2D-41B9-A6E8-C51B2E72ED31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA99632-4F2D-41B9-A6E8-C51B2E72ED31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA99632-4F2D-41B9-A6E8-C51B2E72ED31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
